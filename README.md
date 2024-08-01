@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **adityapathak034@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JOs1hjSW8oc9NLlKpmTVPfNV_scBrKWp/view?usp=drive_link](https://drive.google.com/file/d/1JOs1hjSW8oc9NLlKpmTVPfNV_scBrKWp/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://github.com/adityapathak0007/adityapathak0007/blob/main/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
