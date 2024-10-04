@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapathak0007&label=Profile%20views&color=0e75b6&style=flat" alt="adityapathak0007" /> </p>
 
-- 👨‍💻 All of my projects are available at [Project_Portfolio](https://github.com/adityapathak0007/Project_Portfolio)
+- 👨‍💻 All of my projects are available at [Project_Portfolio](https://github.com/adityapathak0007?tab=repositories)
 
 - 📫 How to reach me **adityapathak034@gmail.com**
 
