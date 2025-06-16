@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **adityapathak034@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://github.com/adityapathak0007/adityapathak0007/blob/main/Resume.pdf)
+- 📄 Know about my experiences [My Resume](https://github.com/adityapathak0007/adityapathak0007/blob/main/Aditya_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
